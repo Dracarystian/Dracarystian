@@ -63,8 +63,8 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p>[![Top Langs](
-https://github-readme-stats.vercel.app/api/top-langs/?username=Dracarystian)](https://github.com/anuraghazra/github-readme-stats)></p>
+<p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dracarystian)](https://github.com/anuraghazra/github-readme-stats)></p>
 
 <br>
 
