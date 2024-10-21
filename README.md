@@ -3,12 +3,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<br>
-
 <p> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></p>
 
 
@@ -69,9 +63,8 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dracarystian&show_icons=true&locale=es&bg_color=000000&text_color=ff0000&repo=dracarystian"
-    alt="tu_usuario" /></p>
-
+<p>[![Top Langs](
+https://github-readme-stats.vercel.app/api/top-langs/?username=Dracarystian)](https://github.com/anuraghazra/github-readme-stats)></p>
 
 <br>
 
